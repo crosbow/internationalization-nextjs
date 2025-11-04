@@ -1,0 +1,16 @@
+{
+  "header": {
+    "navLinks": ["About Us", "Our Blogs"]
+  },
+  "about": {
+    "heading": "About Us",
+    "description": "We provide solution for business"
+  },
+  "blogs": {
+    "heading": "Our Blog",
+    "articles": [
+      "How we helped business to get 2x profit",
+      "Our successful story"
+    ]
+  }
+}
